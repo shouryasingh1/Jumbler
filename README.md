@@ -1,2 +1,2 @@
-# my-first
-Just giving it a shot. I have no idea how this would end up :')
+#Jumbler
+This ia mini game based upon java. Which gives you jumbled word as questions and you are expected to answer using one word with the correct word (a meaningful word). The code at the end of all the questions analyses your attempt and returns the number of correct, incorrect, unattempted answers and gives your score after calculation is done based upon certain marking scheme. It also gives you a title according to your score. The game has a Command Line User Interface.
